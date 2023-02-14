@@ -16,7 +16,6 @@ tls = ["reqwest/native-tls"]
 async-recursion = "0.3.1"
 async-trait = "0.1.41"
 base64 = "0.13.0"
-bigdecimal = "0.3.0"
 chrono = "0.4.19"
 digest_auth = "0.3.0"
 futures-core = "0.3.8"
