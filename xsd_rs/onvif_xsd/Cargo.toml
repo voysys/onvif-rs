@@ -12,7 +12,7 @@ validate = { path = "../../validate" }
 xml-rs = "0.8.3"
 xmlmime = { path = "../../xsd_rs/xmlmime" }
 xop = { path = "../../xsd_rs/xop" }
-xsd-macro-utils = { git = "https://github.com/lumeohq/xsd-parser-rs", rev = "7f3d433" }
-xsd-types = { git = "https://github.com/lumeohq/xsd-parser-rs", rev = "7f3d433" }
+xsd-macro-utils = { git = "https://github.com/voysys/xsd-parser-rs", tag = "voysys-1" }
+xsd-types = { git = "https://github.com/voysys/xsd-parser-rs", tag = "voysys-1" }
 yaserde = "0.7.1"
 yaserde_derive = "0.7.1"

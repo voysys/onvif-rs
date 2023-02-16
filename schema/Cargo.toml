@@ -14,8 +14,8 @@ transport = { path = "../transport" }
 url = "2.2.1"
 validate = { path = "../validate" }
 xml-rs = "0.8.3"
-xsd-macro-utils = { git = "https://github.com/lumeohq/xsd-parser-rs", rev = "7f3d433" }
-xsd-types = { git = "https://github.com/lumeohq/xsd-parser-rs", rev = "7f3d433" }
+xsd-macro-utils = { git = "https://github.com/voysys/xsd-parser-rs", tag = "voysys-1" }
+xsd-types = { git = "https://github.com/voysys/xsd-parser-rs", tag = "voysys-1" }
 
 # xsd
 common = { path = "../xsd_rs/common" }
